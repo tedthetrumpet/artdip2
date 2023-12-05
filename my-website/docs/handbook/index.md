@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 # Introduction
 The Artist Diploma is intended for advanced students in music on the cusp of a professional career, who are seeking to hone a distinctive musical personality through a year of post-masters study in a conservatoire environment.
 

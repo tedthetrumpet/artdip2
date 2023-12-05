@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 
@@ -25,7 +25,7 @@ September 2020
 
 ## Curriculum Principles
 
-### The Conservatoire curriculum:
+#### The Conservatoire curriculum:
 - Develops excellence alongside high levels of reflection in all of our disciplines.
 - Fosters the creative attitudes and skills needed for collaborative learning in and through
 practice.
@@ -39,7 +39,7 @@ active citizens.
 
 ## Graduate Attributes
 
-### The Conservatoire graduate:
+#### The Conservatoire graduate:
 
 **Is an excellent and reflective arts practitioner** and leads, creates, achieves and innovates. Conservatoire Graduates understand that the highest level of risk and daring offers the greatest potential for achievement and fulfilment.
 
@@ -54,7 +54,7 @@ active citizens.
 **Makes a contribution in the world, as an artist, educator, advocate and active citizen** and uses highly developed skills to communicate a profound appreciation of how their artistic discipline connects with the real world.
 
 ## Programme Aims
-### The Artist Diploma in Music is designed to:
+#### The Artist Diploma in Music is designed to:
 - Encourage the development of a distinctive musical personality
 - Offer a rich learning environment that nurtures the individual artist in relation to the wider context of their practice
 - Provide opportunities for performance and composition, and support students in creating their own opportunities
@@ -62,7 +62,7 @@ active citizens.
 - Support students in articulating clearly the questions and insights that form the basis of their artistic practice
 
 ## Programme Learning Outcomes
-### On the completion of the ArtDip you are expected to be able to:
+#### On the completion of the ArtDip you are expected to be able to:
 **LO1**	Realise, recreate, create, manipulate and/or produce music to a high professional level, expressing your artistic concepts in a well-developed musical personality
 
 **LO2**	Evidence sophisticated craft skills at the forefront of the discipline, creating coherent musical experiences across a range of repertoires, styles, forms and genres
@@ -91,7 +91,7 @@ Maximum cohort: 10
 | Supporting Project | 11 | 40 |
 | Total | | 120 |
 
-## Programme content
+## Programme Content
 ### Principal Project
 
 - 80 credits, 800 hours
